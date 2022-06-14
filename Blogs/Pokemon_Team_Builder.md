@@ -20,17 +20,17 @@ Once I got everything that I needed, that was when I began to plan my next step 
 ## Display Data
 Let me warn you. I did not anticipate the amount of elements needed to be created under a single container. Each pokemon contains information that includes their `name, id, type, height, and weight.` And each of these information are created with their own `div` under its own unique `id`. 
 That is not all! There are other elements created to help display the features that I'm trying to implement. I created various buttons, headers, and containers to make the pokemon cards more interesting. Believe me when I say I’ve spent **HOURS** creating elements before I even got the chance to write a simple function. 
-[pic] 
+![DisplayPokemon](https://raw.githubusercontent.com/jlin100/Flatiron-Blogs/main/Image/DisplayPokemon.png) 
 
 Remember I said I wanted the pokemon cards to be interactive. Well, I created an `add` and `remove` button that allows the user to select and remove the pokemon they want. I thought what better way for the user to interact with each card than actually physically select the card they want. I thought by allowing the user to choose the pokemon they like, it allows them to actually review the information on the card. And by adding the pokemon to their team, it lets them keep track of the information they have chosen and be more familiar with the content on the list. I went beyond my knowledge trying to make my WebApp “fun”. I created a drop down option to reveal more information on the pokemon so the user can have more activity to do as they go down the list. 
-[pic]
+![add&remove](https://raw.githubusercontent.com/jlin100/Flatiron-Blogs/main/Image/add%26remove.png)
 
 At the end of the day, I think my hard work was well worth it :)
 
 ## What I Made This Experience Enjoyable 
 I really had fun doing the styling and coming up with different designs for the layout of my WebApp. I have terrible OCD, so I have to make sure everything fits to my liking. I spent several hours googling and looking up different CSS methods that I can incorporate into my project. 
 
-[pic]
+![Bounce](https://raw.githubusercontent.com/jlin100/Flatiron-Blogs/main/Image/bounce.png)
 
 One thing that I am definitely proud of in my design is incorporating the bounce animation when I hover over a pokemon card.  
 
