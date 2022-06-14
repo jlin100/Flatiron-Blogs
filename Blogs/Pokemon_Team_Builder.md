@@ -1,4 +1,4 @@
-## A quick intro to my webapp 
+## A Quick Intro To My WebApp 
 Hello Everyone! Welcome to my phase 1 project :) 
 
 I honestly can’t believe how far I have come and finally made it to the end of phase 1. 
@@ -27,7 +27,7 @@ Remember I said I wanted the pokemon cards to be interactive. Well, I created an
 
 At the end of the day, I think my hard work was well worth it :)
 
-## What I Made This Experience Enjoyable 
+## What Made This Experience Enjoyable 
 I really had fun doing the styling and coming up with different designs for the layout of my WebApp. I have terrible OCD, so I have to make sure everything fits to my liking. I spent several hours googling and looking up different CSS methods that I can incorporate into my project. 
 
 ![Bounce](https://raw.githubusercontent.com/jlin100/Flatiron-Blogs/main/Image/bounce.png)
