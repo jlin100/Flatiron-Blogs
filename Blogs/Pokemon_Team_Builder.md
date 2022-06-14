@@ -41,5 +41,5 @@ One thing I would definitely add to this project is a search bar. I think it wou
 There is nothing more fun than getting to build an application about Pokemon. It is pretty satisfying to see the final product and get to build a team of your own. 
 
 ### Here is mine Gen 1 team: 
-[pic]
+![Dream Team](/Users/jefflin/Development/code/Flatiron-Blogs/Image/Dream_Team.jpg)
 
