@@ -13,7 +13,7 @@ I didn’t want to create something that would be too simple like a plain search
 ## Fetch Pokemon Data Using the PokeAPI
 The first thing I did to start my project is to use `.fetch ()` requests to obtain the data from the [PokeAPI](https://pokeapi.co/). There is a lot of information in the API that I didn’t really need. It was a struggle trying to understand what exactly I am fetching. I used `.to_json` method to grab the values from the data. It took me a good amount of time to fully understand what data is coming back and how to retrieve the specific information that I need. 
 
-[pic]
+![fetch](https://raw.githubusercontent.com/jlin100/Flatiron-Blogs/main/Image/Fetch.png)
 
 Once I got everything that I needed, that was when I began to plan my next step on how to display all this information under a container. 
 
